@@ -1,0 +1,8 @@
+{
+  "lunch": 
+	[
+		{"food": "Fried Chicken","price": 15.00,"calories":246},
+		{"food": "Hamburger","price": 10.00,"calories":295},
+		{"food": "Sandwich","price": 5.00,"calories":233}
+    ]
+}

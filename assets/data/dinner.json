@@ -1,0 +1,8 @@
+{
+  "dinner": 
+	[
+		{"food": "Sushi","price": 30.00,"calories":110},
+		{"food": "Caesar Salad","price": 15.00,"calories":44},
+		{"food": "Tacos","price": 20.00,"calories":226}
+    ]
+}
